@@ -1,0 +1,29 @@
+{
+  "dataset_rows": 180519,
+  "dataset_columns": 40,
+  "training_rows": 144415,
+  "testing_rows": 36104,
+  "best_model": "Random Forest",
+  "features": [
+    "Benefit per order",
+    "Sales per customer",
+    "Category Id",
+    "Category Name",
+    "Customer Segment",
+    "Department Id",
+    "Department Name",
+    "Market",
+    "Order Item Discount",
+    "Order Item Discount Rate",
+    "Order Item Product Price",
+    "Order Item Profit Ratio",
+    "Order Item Quantity",
+    "Sales",
+    "Order Item Total",
+    "Order Profit Per Order",
+    "Order Region",
+    "Product Name",
+    "Product Price",
+    "Shipping Mode"
+  ]
+}
